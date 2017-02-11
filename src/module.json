@@ -1,0 +1,5 @@
+{
+    "runner": "runner.php",
+    "priority": 0,
+    "require": []
+}
